@@ -38,8 +38,6 @@
 
 ## 圖書管理員
 這是來自程式語言課程的期末專題，我結合Unity、大型語言模型、Hugging face、爬蟲等工具，在unity中製作一款可互動的人物，他會以圖書管理員的身分推薦書籍，並且可以在其中看到來自博客來的前十書籍排行榜等。
-
-* 成果展示
   
  | [程式碼](https://github.com/MocuAcqu/NTNU_PL_Library) | [解說影片](https://youtu.be/Xl6CxgXtN0w) |
  |--|--|

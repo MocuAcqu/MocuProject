@@ -40,7 +40,8 @@
 這是來自程式語言課程的期末專題，我結合Unity、大型語言模型、Hugging face、爬蟲等工具，在unity中製作一款可互動的人物，他會以圖書管理員的身分推薦書籍，並且可以在其中看到來自博客來的前十書籍排行榜等。
 
 * 成果展示
-| [程式碼](https://github.com/MocuAcqu/NTNU_PL_Library) | [解說影片](https://youtu.be/Xl6CxgXtN0w) |
+  
+ | [程式碼](https://github.com/MocuAcqu/NTNU_PL_Library) | [解說影片](https://youtu.be/Xl6CxgXtN0w) |
  |--|--|
 
  | ![image](莫奇1.png) | ![image](莫奇2.png) | ![image](互動說明.png) |
@@ -50,9 +51,13 @@
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
 
 (1) 網際網路概論 https://github.com/MocuAcqu/web?tab=readme-ov-file
+
 (2) 程式語言 https://github.com/MocuAcqu/PL-class
+
 (3) 資料結構 (進行中)
+
 (4) 教育大數據專題製作 (進行中)
+
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

@@ -52,9 +52,9 @@
 
 (2) 程式語言 https://github.com/MocuAcqu/PL-class
 
-(3) 資料結構 (進行中)
+(3) 資料結構 https://github.com/MocuAcqu/1132Database
 
-(4) 教育大數據專題製作 (進行中)
+(4) 教育大數據專題製作 https://github.com/MocuAcqu/Chrome_test
 
 
 ## 🤝 聯絡我

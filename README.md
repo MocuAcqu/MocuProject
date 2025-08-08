@@ -7,6 +7,7 @@
 - [華麗抽獎網站](#華麗抽獎網站)
 - [圖書管理員](#圖書管理員)
 - [英文寫作分析器](#英文寫作分析器)
+- []
 - [課程成果github傳送門](#課程成果github傳送門)
 
 ## 台師大附近-常用Youbike站點即時資訊
@@ -55,6 +56,16 @@
  | ![image](英文分析_1.png) | ![image](英文分析_2.png) | ![image](英文分析_3.png) |
  |--|--|--|
 
+## 釣魚信件分析器
+這是來自教育大數據專題製作課程的專題成果，我們透過 Autoencoder 建立一個判斷釣魚網址的模型，作出一個可以使用在 Gmail 信件的 Chrome 擴充工具。
+
+ | [程式碼](https://github.com/MocuAcqu/BigData/tree/main/extension) | 
+ |--|
+
+   | 批次分析功能 Before | 批次分析功能 After | 單封信分析功能 Before | 單封信分析功能 After |
+  |:-:|:-:|:-:|:-:|
+  |![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_2.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_2.png)|
+ 
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
 
@@ -66,7 +77,7 @@
 
 (4) 資料結構期末報告 https://github.com/1132DatabaseProject/DatabaseProject?tab=readme-ov-file
 
-(4) 教育大數據專題製作 https://github.com/MocuAcqu/Chrome_test
+(5) 教育大數據專題製作 https://github.com/MocuAcqu/BigData
 
 
 ## 🤝 聯絡我

@@ -79,8 +79,9 @@
 
 ## Tina的人生模擬器
 這是我在程式設計課程的期末成果，我重新設計了個人網站，結合課程使用 JS 製作互動遊戲的元素，使得我的個人網站可以切換不同對應我現實身分的角色(學生、工作者、社團人、原作者)，並進行15天的模擬器互動，每天會有8個選項隨機出現4個，並且有12種不同結局。
- | [成果網站]([https://github.com/MocuAcqu/DB_finalPJ_TKP](https://etech.gac.ntnu.edu.tw/jsa14a/99%20(final)/41271124H%20Tina%e7%9a%84%e4%ba%ba%e7%94%9f%e6%a8%a1%e6%93%ac%e5%99%a8/)) | 
+ | [成果網站](https://etech.gac.ntnu.edu.tw/jsa14a/99%20(final)/41271124H%20Tina%e7%9a%84%e4%ba%ba%e7%94%9f%e6%a8%a1%e6%93%ac%e5%99%a8/) | 
  |--|
+ 
  (此個人網站預計會持續改版並使用 render 做為未來部屬方式，已有更新版本: https://tina-s-life-personal-website.onrender.com/)
 
 | <img src="https://github.com/MocuAcqu/1141-GAC-programing-project/blob/main/tinalife_1.png" width="500"> |

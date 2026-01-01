@@ -1,6 +1,6 @@
-# 歡迎光臨"我的個人成果分享"
+# 歡迎光臨"我的課程個人成果分享"
 ### 你好，我是邱鈺婷 :grinning:
-這裡會整理我製作的一些小小作品、作業成果，很開心可以與你進行交流。
+這裡會整理我製作的一些大學課程中的小小作品、作業成果，很開心可以與你進行交流。
 
 - [台師大附近-常用Youbike站點即時資訊](#台師大附近-常用Youbike站點即時資訊)
 - [個人介紹網站](#個人介紹網站)
@@ -10,6 +10,7 @@
 - [釣魚信件分析器](#釣魚信件分析器)
 - [TKP trade can be possible](#TKP_trade_can_be_possible)
 - [Tina 的人生模擬器](#Tina的人生模擬器)
+- [智慧貨幣收集家](#智慧貨幣收集家)
 - [課程成果github傳送門](#課程成果github傳送門)
 
 ## 台師大附近-常用Youbike站點即時資訊
@@ -86,6 +87,15 @@
 
 | <img src="https://github.com/MocuAcqu/1141-GAC-programing-project/blob/main/tinalife_1.png" width="500"> |
 |--|
+
+## 智慧貨幣收集家
+這是一個結合影像辨識、匯率換算、集幣冊、貨幣資訊等元素的行動教學教材，希望透過多元技術與功能，讓大家可以透過這款教材，開啟認識貨幣價值的動機，看見才在貨幣中的文化故事、實際應用與歷史意義。
+
+ | [程式碼 repo](https://github.com/MocuAcqu/1141Currency_Learning_Materials) | 
+ |--|
+
+| <img src="https://github.com/MocuAcqu/1141Currency_Learning_Materials/blob/main/Smart Currency.png" width=250px> |
+|--|
  
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
@@ -103,6 +113,8 @@
 (6) 資料庫系統 https://github.com/MocuAcqu/1141DB
 
 (7) 程式設計 https://github.com/MocuAcqu/1141-GAC-programing-project
+
+(8) 多媒體教材設計與製作 https://github.com/MocuAcqu/1141Currency_Learning_Materials
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

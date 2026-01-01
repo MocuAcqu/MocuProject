@@ -65,6 +65,15 @@
    | 批次分析功能 Before | 批次分析功能 After | 單封信分析功能 Before | 單封信分析功能 After |
   |:-:|:-:|:-:|:-:|
   |![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_2.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_2.png)|
+
+## TKP trade can be possible
+這是來自資料庫系統課程的專題成果，我們運用 MongoDB 去製作一個集結買賣、交換和租賃於一體的平台。我們的目標是打造一個能夠更快、更透明地連接「物品」和「需求」的平台。
+
+ | [程式碼 repo](https://github.com/MocuAcqu/DB_finalPJ_TKP) | 
+ |--|
+
+|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP2.png" width="500">|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP1.png" width="500">|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP.png" width="500">|
+|:--:|:--:|:--:|
  
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
@@ -79,6 +88,7 @@
 
 (5) 教育大數據專題製作 https://github.com/MocuAcqu/BigData
 
+(6) 資料庫系統 https://github.com/MocuAcqu/1141DB
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

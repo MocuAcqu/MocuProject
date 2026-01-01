@@ -8,6 +8,8 @@
 - [圖書管理員](#圖書管理員)
 - [英文寫作分析器](#英文寫作分析器)
 - [釣魚信件分析器](#釣魚信件分析器)
+- [TKP trade can be possible](#TKP_trade_can_be_possible)
+- [Tina 的人生模擬器](#Tina的人生模擬器)
 - [課程成果github傳送門](#課程成果github傳送門)
 
 ## 台師大附近-常用Youbike站點即時資訊
@@ -66,7 +68,7 @@
   |:-:|:-:|:-:|:-:|
   |![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_2.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_2.png)|
 
-## TKP trade can be possible
+## TKP_trade_can_be_possible
 這是來自資料庫系統課程的專題成果，我們運用 MongoDB 去製作一個集結買賣、交換和租賃於一體的平台。我們的目標是打造一個能夠更快、更透明地連接「物品」和「需求」的平台。
 
  | [程式碼 repo](https://github.com/MocuAcqu/DB_finalPJ_TKP) | 
@@ -74,6 +76,11 @@
 
 |<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP2.png" width="500">|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP1.png" width="500">|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP.png" width="500">|
 |:--:|:--:|:--:|
+
+## Tina的人生模擬器
+這是我在程式設計課程的期末成果，我重新設計了個人網站，結合課程使用 JS 製作互動遊戲的元素，使得我的個人網站可以切換不同對應我現實身分的角色(學生、工作者、社團人、原作者)，並進行15天的模擬器互動，每天會有8個選項隨機出現4個，並且有12種不同結局。
+| <img src="https://github.com/MocuAcqu/1141-GAC-programing-project/blob/main/tinalife_1.png" width="500"> |
+|--|
  
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
@@ -89,6 +96,8 @@
 (5) 教育大數據專題製作 https://github.com/MocuAcqu/BigData
 
 (6) 資料庫系統 https://github.com/MocuAcqu/1141DB
+
+(7) 程式設計 https://github.com/MocuAcqu/1141-GAC-programing-project
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

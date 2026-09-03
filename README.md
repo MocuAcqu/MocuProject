@@ -114,7 +114,7 @@
  | [程式碼 repo](https://github.com/MocuAcqu/OnomaRise-LandingPage) |[成果網站](https://mocuacqu.github.io/OnomaRise-LandingPage/) |
  |--|--|
 
-| <img src="https://github.com/MocuAcqu/OnomaRise-LandingPage/blob/main/onomarise_landing.png" width=250px> |
+| <img src="https://github.com/MocuAcqu/OnomaRise-LandingPage/blob/main/onomarise_landing.png" width=800px> |
 |--|
  
 
@@ -137,6 +137,7 @@
 
 (8) 多媒體教材設計與製作 https://github.com/MocuAcqu/1141Currency_Learning_Materials
 
+(9) 畢業專題 https://github.com/MocuAcqu/onoma-rise
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

@@ -11,6 +11,8 @@
 - [TKP trade can be possible](#TKP_trade_can_be_possible)
 - [Tina 的人生模擬器](#Tina的人生模擬器)
 - [智慧貨幣收集家](#智慧貨幣收集家)
+- [Enigma 模擬器](#Enigma模擬器)
+- [畢業專題OnomaRise-LandingPage](#畢業專題OnomaRise-LandingPage)
 - [課程成果github傳送門](#課程成果github傳送門)
 
 ## 台師大附近-常用Youbike站點即時資訊
@@ -97,7 +99,7 @@
 | <img src="https://github.com/MocuAcqu/1141Currency_Learning_Materials/blob/main/Smart Currency.png" width=250px> |
 |--|
 
-## Enigma 模擬器
+## Enigma模擬器
 這是我在區塊練與加密貨幣課程中，模擬｢恩尼格瑪機｣加密、解密機制所製作的一個網頁。包含模擬 ENIGMA 轉軸、顯示燈、字母鍵盤、接線板，讓英文內容可以加密成一段無法直接閱讀理解的英文亂碼，並透過相同線路設定，依照亂碼順序解密成員文內容，以及歷史故事介紹、運作原理解析、參考密碼表。
 
  | [程式碼 repo](https://github.com/MocuAcqu/enigma_simulator) |[成果網站](https://mocuacqu.github.io/enigma_simulator/) |
@@ -105,7 +107,17 @@
 
  | <img src="https://github.com/MocuAcqu/enigma_simulator/blob/main/images/readme/readme1.png" width=250px> | <img src="https://github.com/MocuAcqu/enigma_simulator/blob/main/images/readme/readme2.png" width=250px> |
 |--|--|
+
+## 畢業專題OnomaRise-LandingPage
+這個是用來畢業專題期中審查時，展示樣貌用的 LandingPage，包含介紹專案核心理念:讓抽象的音樂理論直觀可見，提供 Github 原始碼、介紹主要三大功能、說明痛點解決與優勢。並用 Google sheet 簡單製作資料庫，存取未來願意測試網站之人的 Gmail。
+
+ | [程式碼 repo](https://github.com/MocuAcqu/OnomaRise-LandingPage) |[成果網站](https://mocuacqu.github.io/OnomaRise-LandingPage/) |
+ |--|--|
+
+| <img src="https://github.com/MocuAcqu/OnomaRise-LandingPage/blob/main/onomarise_landing.png" width=250px> |
+|--|
  
+
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
 
@@ -125,7 +137,6 @@
 
 (8) 多媒體教材設計與製作 https://github.com/MocuAcqu/1141Currency_Learning_Materials
 
-(9) 區塊練與加密貨幣 https://github.com/MocuAcqu/enigma_simulator
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

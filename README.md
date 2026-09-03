@@ -13,6 +13,8 @@
 - [智慧貨幣收集家](#智慧貨幣收集家)
 - [Enigma 模擬器](#Enigma模擬器)
 - [畢業專題OnomaRise-LandingPage](#畢業專題OnomaRise-LandingPage)
+- [3D玩創意-blender動畫](#3D玩創意-blender動畫)
+- [AI影像辨識-入門實作](#AI影像辨識-入門實作)
 - [課程成果github傳送門](#課程成果github傳送門)
 
 ## 台師大附近-常用Youbike站點即時資訊
@@ -74,8 +76,8 @@
 ## TKP_trade_can_be_possible
 這是來自資料庫系統課程的專題成果，我們運用 MongoDB 去製作一個集結買賣、交換和租賃於一體的平台。我們的目標是打造一個能夠更快、更透明地連接「物品」和「需求」的平台。
 
- | [程式碼 repo](https://github.com/MocuAcqu/DB_finalPJ_TKP) | 
- |--|
+ | [程式碼 repo](https://github.com/MocuAcqu/DB_finalPJ_TKP) | [成果影片](https://youtu.be/QfTn0Um9Gx0?si=l8dfkdM0ZTjmLvuM)|
+ |--|--|
 
 |<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP2.png" width="500">|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP1.png" width="500">|<img src="https://github.com/MocuAcqu/1141DB/blob/main/readme_images/TKP.png" width="500">|
 |:--:|:--:|:--:|
@@ -116,7 +118,21 @@
 
 | <img src="https://github.com/MocuAcqu/OnomaRise-LandingPage/blob/main/onomarise_landing.png" width=800px> |
 |--|
- 
+
+## 3Dmax電腦動畫成果
+這個是我在電腦動畫課程中，課程中與期中、期末的3D建模與動畫成果。
+|[骨牌動畫](https://youtu.be/uPuGC2yGL_c?si=IT37dZa942WlbxVx)|[升空熱氣球](https://youtu.be/sbxGR7LKNOM?si=Cyf52cjkuafwq2Qq)|[期中成果影片-黃色雨傘](https://youtu.be/lfmbNTacAeU?si=mjDkVw06SYIK5i7N)|[期末成果影片](https://youtu.be/hGUXQZ_lQCU?si=iz2rec-YWMb-hBhU)|
+|--|--|--|--|
+
+## 3D玩創意-blender動畫
+這個是我在3D玩創意課程中，使用 blender 製作的場景、腳色建模與動畫製作，成果是依照 Dream Sequence 3D Community Challenge 的格式來創作的。
+|[期末成果影片](https://youtu.be/M_1yYnrHRdw?si=dbLu5_lt-4kQFilo)|
+|--|
+
+## AI影像辨識-入門實作
+這個是 AI 影像識別入門與實作課程的作業，包含我利用 MediaPipe 以手部姿態控制視訊錄影，以及我實作 dlib-face-recognition 的過程。
+|[MediaPipe 以手部姿態控制視訊錄影](https://youtu.be/jYCBV0Xs_2k?si=GuKm5aPDCAaCns9i)|[dlib-face-recognition簡報](https://canva.link/yfr44nmbcm5ttgz)|
+|--|--|
 
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。

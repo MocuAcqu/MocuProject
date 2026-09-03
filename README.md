@@ -96,6 +96,15 @@
 
 | <img src="https://github.com/MocuAcqu/1141Currency_Learning_Materials/blob/main/Smart Currency.png" width=250px> |
 |--|
+
+## Enigma 模擬器
+這是我在區塊練與加密貨幣課程中，模擬｢恩尼格瑪機｣加密、解密機制所製作的一個網頁。包含模擬 ENIGMA 轉軸、顯示燈、字母鍵盤、接線板，讓英文內容可以加密成一段無法直接閱讀理解的英文亂碼，並透過相同線路設定，依照亂碼順序解密成員文內容，以及歷史故事介紹、運作原理解析、參考密碼表。
+
+ | [程式碼 repo](https://github.com/MocuAcqu/enigma_simulator) |[成果網站](https://mocuacqu.github.io/enigma_simulator/) |
+ |--|--|
+
+ | <img src="https://github.com/MocuAcqu/enigma_simulator/blob/main/images/readme/readme1.png" width=250px> | <img src="https://github.com/MocuAcqu/enigma_simulator/blob/main/images/readme/readme2.png" width=250px> |
+|--|--|
  
 ## 課程成果github傳送門
 這裡會分享我在一些課堂中的github連結，可以快速了解我在該課程中的成果，以更詳細的資料分享。
@@ -115,6 +124,8 @@
 (7) 程式設計 https://github.com/MocuAcqu/1141-GAC-programing-project
 
 (8) 多媒體教材設計與製作 https://github.com/MocuAcqu/1141Currency_Learning_Materials
+
+(9) 區塊練與加密貨幣 https://github.com/MocuAcqu/enigma_simulator
 
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬

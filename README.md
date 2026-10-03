@@ -73,6 +73,15 @@
   |:-:|:-:|:-:|:-:|
   |![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_2.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_2.png)|
 
+## WorldKC 盲人點字學習 APP
+這是使用 APP inventor 開發一款盲人點字學習軟體「WorldKC」，因發現存在著非視覺障礙者卻需要學習盲人點字的情況，例如視障者的家屬、盲人點字的相關設計者、特教老師等，而市面上有著眾多語言學習工具，卻鮮少有可翻譯、查字典和擁有學習測驗的盲人點字學習工具，因此我結合聲音與圖像，設計了有多種互動方式的學習器。
+
+| [介紹簡報](https://canva.link/xfd0mgn7d0p2pqj) |
+|--|
+
+ | ![image](WorldKC_1.png) | ![image](WorldKC_2.png) | ![image](WorldKC_3.png) |
+ |--|--|--|
+
 ## TKP_trade_can_be_possible
 這是來自資料庫系統課程的專題成果，我們運用 MongoDB 去製作一個集結買賣、交換和租賃於一體的平台。我們的目標是打造一個能夠更快、更透明地連接「物品」和「需求」的平台。
 
